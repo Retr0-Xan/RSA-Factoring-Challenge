@@ -19,6 +19,7 @@ check_factor()
                 num2=$3
         fi
 
+
         num1=$2
         num=$(echo "$1" | tr ':' '=')
 
